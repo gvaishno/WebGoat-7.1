@@ -170,11 +170,11 @@
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
-            <url>http://localhost:8083/repository/maven-central</url>
+            <url>http://localhost:8083/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
-            <url>http://localhost:8083/repository/maven-central</url>
+            <url>http://localhost:8083/repository/maven-central/</url>
         </repository>
     </distributionManagement>
 
