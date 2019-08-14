@@ -174,7 +174,7 @@
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
-            <url>http://localhost:8083/repository/maven-central/</url>
+            <url>http://localhost:8083/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
 
